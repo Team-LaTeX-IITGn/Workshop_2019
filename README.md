@@ -9,6 +9,6 @@
 | Session 3   |   --- | ---   |  ---  |
 
 
-Link to the live document: <a href ="www.overleaf.com/read/rrbvxbjyzrkp"> Link </a>
+Link to the live document: <a href ="https://www.overleaf.com/read/rrbvxbjyzrkp"> Link </a>
 
 
