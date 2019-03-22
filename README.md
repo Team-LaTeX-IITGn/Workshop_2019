@@ -8,6 +8,5 @@
 | Session 2   | <a href="https://drive.google.com/open?id=1EZDP3wdWGC8LvcYx0ly7BphGw94RwfqX">Amey PDF File</a><br><a href="https://drive.google.com/open?id=1id5XGL-wY4XN7R2vyGZhGnDdsv5me3hG">Amey TeX File</a> | <a href="https://drive.google.com/file/d/1xEZLe7vHYGbzJAeMq9kR8AR0RL9hlOdC/view?usp=sharing">Symbols</a><br><a href="http://detexify.kirelabs.org/classify.html">Symbol Detector</a> | <a href="http://deic.uab.es/~iblanes/beamer_gallery/">Beamer Theme Gallery</a><br><a href="https://drive.google.com/open?id=1J7diFICcQzSm0xopfLSANACj1aACHUDB">IITGn Logo</a> |
 | Session 3   |   <a href = "https://drive.google.com/open?id=1Z8DuqpN6OauOgXXfPKyMAiVnw88C9R3x"> Vraj Resources </a> | <a href="https://drive.google.com/file/d/1JB6g8FRp6eRNhdvql3OuiTPz9d4dWyJX/view?usp=sharing">Prakash PDF File</a><br><a href="https://drive.google.com/file/d/1OJalorwpPBBvc_qcup3XqwzcVdmSYJx_/view?usp=sharing">Prakash TeX File</a> |  <a href="https://drive.google.com/open?id=12Xqt_MX8np0fooKlSxxsO6tE3YU1mclE">Rohit Tex File</a><br><a href="https://drive.google.com/open?id=1MuQnqS5rRtl_purgkoJGl4BILYAe1yUt">Rohit PDF File</a>   |
 
-
 Link to the live document: <a href ="https://www.overleaf.com/read/rrbvxbjyzrkp"> Link </a>
 
